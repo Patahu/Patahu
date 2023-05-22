@@ -2,7 +2,7 @@
 
 - 🌱 I currently dominate **Python | Dart | Java | SQL | C | C++**
 
-- 📫 Reach me at: **dimensionbanana@gmail.com**
+- 📫 Reach me at: **geovanni.leon.27@unsch.edu.pe**
 
 - 📄 Know about my experiences in [my CV :)](https://)
 
