@@ -4,7 +4,6 @@
 
 - 📫 Reach me at: **geovanni.leon.27@unsch.edu.pe**
 
-- 📄 Know about my experiences in [my CV :)](https://)
 
 
 
